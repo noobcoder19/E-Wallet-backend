@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Major Project.iml" filepath="$PROJECT_DIR$/.idea/Major Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserService/gWallet.iml" filepath="$PROJECT_DIR$/UserService/gWallet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WalletService/gWallet (1).iml" filepath="$PROJECT_DIR$/WalletService/gWallet (1).iml" />
+    </modules>
+  </component>
+</project>
